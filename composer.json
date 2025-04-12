@@ -1,12 +1,12 @@
 {
-  "name": "laravel/vue-starter-kit",
+  "name": "juststeveking/saas-template",
   "type": "project",
-  "description": "The skeleton application for the Laravel framework.",
+  "description": "A SaaS template built with Laravel and Inertia using VueJS\n\n",
   "keywords": [
     "laravel",
     "framework"
   ],
-  "license": "proprietary",
+  "license": "MIT",
   "require": {
     "php": "^8.4",
     "inertiajs/inertia-laravel": "^2.0.2",
